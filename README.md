@@ -1,5 +1,5 @@
 # Sketchpad
-a jQuery sketchpad plugin
+a jQuery sketch pad plugin
 ![sample](https://raw.githubusercontent.com/zcfan/sketchpad/master/samplepic.png)
 
 ## License
